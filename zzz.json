@@ -1,10 +1,4 @@
 {
   "maintenance": false,
-  "devices": [
-    {
-      "name": "rakez",
-      "android_id": "e11328c9018fb4a2",
-      "expire": 1879980964827
-    }
-  ]
+  "devices": []
 }
